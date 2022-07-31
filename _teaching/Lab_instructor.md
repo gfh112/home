@@ -2,14 +2,12 @@
 title: "Lab instructor in classical mechaincs (PHYS3350)"
 collection: teaching
 type: "Undergraduate course"
-permalink: https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=PHYS3350
+permalink: /teaching/lab3350
 venue: "The University of Hong Kong, Department of Physics"
 date: 2019 1st semester
 location: "Hong Kong"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
+The lab instructor manuals can be found [here]{https://www.physics.hku.hk/~physlab/cyp206/3350-1.pdf} and [here]{https://www.physics.hku.hk/~physlab/cyp206/3350-2.pdf}
 Heading 1
 ======
 

@@ -2,19 +2,16 @@
 title: "Teaching Assistant in Astrophysics (PHYS3653)"
 collection: teaching
 type: "Undergraduate course"
-permalink: https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=PHYS3653
+permalink: /teaching/Astrophysics
 venue: "The University of Hong Kong, Department of Physics"
 date: 2020+2021, 2nd semester
 location: "Hong Kong"
 ---
+The full course description can be found [here]{ https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=PHYS3653}
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Topics I covered
 ======
 
-Heading 2
+Homework
 ======
 
-Heading 3
-======

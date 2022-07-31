@@ -1,14 +1,14 @@
 ---
-title: "Virtual lab instructor for entire year 2 semester 1 pensum (PHYS 2250, 2255, 2260, 2265)"
+title: "Virtual instructor for entire year 2 semester 1 lab (PHYS 2250, 2255, 2260, 2265)"
 collection: teaching
 type: "Workshop"
-permalink: https://www.physics.hku.hk/~physlab/
+permalink: /teaching/virtual_lab
 venue: "The University of Hong Kong, Deprtment of Physics"
 date: 2020, semester 2
 location: "Hong Kong"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The virtual lab experiments can be found [here]{https://www.physics.hku.hk/~physlab/}
 
 Heading 1
 ======
