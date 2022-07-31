@@ -7,13 +7,13 @@ venue: "The University of Hong Kong, Department of Physics"
 date: 2019 1st semester
 location: "Hong Kong"
 ---
-The lab instruction manuals can be found <a href="https://www.physics.hku.hk/~physlab/cyp206/3350-1.pdf" target="_blank">here</a> and <a href="https://www.physics.hku.hk/~physlab/cyp206/3350-2.pdf" target="_blank">here</a>
 
-Heading 1
+Measurement of dynamic response of a second
+order system
 ======
+The lab instruction manuals can be found <a href="https://www.physics.hku.hk/~physlab/cyp206/3350-1.pdf" target="_blank">here</a> 
 
-Heading 2
-======
 
-Heading 3
+The Physical Pendulum
 ======
+The lab instruction manuals can be found <a href="https://www.physics.hku.hk/~physlab/cyp206/3350-2.pdf" target="_blank">here</a> 

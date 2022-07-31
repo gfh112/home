@@ -8,11 +8,9 @@ date: 2020
 location: "Hong Kong"
 ---
 
-The virtual lab experiments can be found <a href="https://www.physics.hku.hk/~physlab/" target="_blank">here</a>
-
-
-Heading 1
+Virtual lab manuals
 ======
+The virtual lab experiments can be found <a href="https://www.physics.hku.hk/~physlab/" target="_blank">here</a>
 
 Heading 2
 ======
