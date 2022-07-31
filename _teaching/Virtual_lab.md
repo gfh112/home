@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/virtual_lab
 venue: "The University of Hong Kong, Deprtment of Physics"
-date: 2020/2021
+date: 2020
 location: "Hong Kong"
 ---
 
