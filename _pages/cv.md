@@ -11,30 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Copenhagen University, 2016
+* M.S. in Astrophysics, Copenhagen University, 2019
+* Ph.D in Astrophysics, The University of Hong Kong, 2023 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistical analysis and model comparisson using Bayesian framework
+* Computational skills in the programing languages:
+  * Python, primarily used for post-processing of data and as a visualization tool
+  * C++, modifying existing code and parallelise problems
+  * Knowledgable in fortran, MatLab, IDL and iraf 
+* Quality control and testing of new simulation results 
 
 Publications
 ======
@@ -56,4 +45,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Host and organizer of weekly Astronomy Journal club, The University of Hong Kong (2019-2022)
+* Virtual Lab Instructor and of all 2nd Year physics courses in HKU PHYS 2250, 2255, 2260, 2265 during online teatching (2020)
+* Research consultant on 2 projects made by juniors in my research group (2020-now)  
