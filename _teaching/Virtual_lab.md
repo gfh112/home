@@ -8,7 +8,8 @@ date: 2020, semester 2
 location: "Hong Kong"
 ---
 
-The virtual lab experiments can be found [here]{https://www.physics.hku.hk/~physlab/}
+The virtual lab experiments can be found <a href="https://www.physics.hku.hk/~physlab/" target="_blank">here</a>
+
 
 Heading 1
 ======
