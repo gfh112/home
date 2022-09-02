@@ -1,6 +1,6 @@
 ---
 title: "Teaching Assistant in Priciples of Astronomy (PHYS3652)"
-collection: teaching
+collection: Teaching
 type: "Undergraduate course"
 permalink: /teaching/priciples
 venue: "The University of Hong Kong, Department of Physics"

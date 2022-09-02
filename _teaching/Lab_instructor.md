@@ -1,6 +1,6 @@
 ---
 title: "Lab instructor in classical mechaincs (PHYS3350)"
-collection: teaching
+collection: Teaching
 type: "Undergraduate course"
 permalink: /teaching/lab3350
 venue: "The University of Hong Kong, Department of Physics"

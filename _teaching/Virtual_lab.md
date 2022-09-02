@@ -1,6 +1,6 @@
 ---
 title: "Virtual instructor for entire year 2 semester 1 lab (PHYS 2250, 2255, 2260, 2265)"
-collection: teaching
+collection: Teaching
 type: "Workshop"
 permalink: /teaching/virtual_lab
 venue: "The University of Hong Kong, Deprtment of Physics"

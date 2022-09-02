@@ -1,6 +1,6 @@
 ---
 title: "Teaching Assistant in Astrophysics (PHYS3653)"
-collection: teaching
+collection: Teaching
 type: "Undergraduate course"
 permalink: /teaching/Astrophysics
 venue: "The University of Hong Kong, Department of Physics"
